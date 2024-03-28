@@ -1,6 +1,6 @@
 # 20240328
 
-- Martignano, F., Munagala, U., Crucitta, S., Mingrino, A., Semeraro, R., Del Re, M., ... & Conticello, S. G. (2021). Nanopore sequencing from liquid biopsy: analysis of copy number variations from cell-free DNA of lung cancer patients. Molecular cancer, 20, 1-6.
+- Martignano, F., Munagala, U., Crucitta, S. et al. Nanopore sequencing from liquid biopsy: analysis of copy number variations from cell-free DNA of lung cancer patients. Mol Cancer 20, 32 (2021). https://doi.org/10.1186/s12943-021-01327-5
 
 # 20240125
 
