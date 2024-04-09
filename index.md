@@ -1,3 +1,6 @@
+# 20240403
+-Kountay Dwivedi, Ankit Rajpal, Sheetal Rajpal, Virendra Kumar, Manoj Agarwal, Naveen Kumar,Enlightening the path to NSCLC biomarkers: Utilizing the power of XAI-guided deep learning,Computer Methods and Programs in Biomedicine,Volume 243,2024,107864,ISSN 0169-2607,https://doi.org/10.1016/j.cmpb.2023.107864
+
 # 20240328
 
 - Martignano, F., Munagala, U., Crucitta, S. et al. Nanopore sequencing from liquid biopsy: analysis of copy number variations from cell-free DNA of lung cancer patients. Mol Cancer 20, 32 (2021). https://doi.org/10.1186/s12943-021-01327-5
