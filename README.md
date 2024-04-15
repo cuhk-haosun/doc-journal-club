@@ -7,12 +7,15 @@ For storing publications/papers for journal club
 - Add the citation from **google scholar** to `index.md`
 - Open the PR and `@everyone` 
 
-#Order
--Milokita		
--223050025		
--HoshinoKyouna		
--XH-BIM		
--Murui-da		
--xxx58		
--fpfcap		
--MeowBing		
+
+
+# Order
+
+- Milokita		
+- 223050025		
+- HoshinoKyouna		
+- XH-BIM		
+- Murui-da		
+- xxx58		
+- fpfcap		
+- MeowBing		
