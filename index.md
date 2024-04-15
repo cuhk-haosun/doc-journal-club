@@ -1,5 +1,5 @@
 # 20240403
--Kountay Dwivedi, Ankit Rajpal, Sheetal Rajpal, Virendra Kumar, Manoj Agarwal, Naveen Kumar,Enlightening the path to NSCLC biomarkers: Utilizing the power of XAI-guided deep learning,Computer Methods and Programs in Biomedicine,Volume 243,2024,107864,ISSN 0169-2607,https://doi.org/10.1016/j.cmpb.2023.107864
+- Kountay Dwivedi, Ankit Rajpal, Sheetal Rajpal, Virendra Kumar, Manoj Agarwal, Naveen Kumar,Enlightening the path to NSCLC biomarkers: Utilizing the power of XAI-guided deep learning,Computer Methods and Programs in Biomedicine,Volume 243,2024,107864,ISSN 0169-2607,https://doi.org/10.1016/j.cmpb.2023.107864
 
 # 20240328
 
