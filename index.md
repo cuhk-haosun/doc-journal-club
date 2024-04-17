@@ -1,3 +1,6 @@
+# 20240418
+- Heeke, S., Gay, C. M., Estecio, M. R., Tran, H., Morris, B. B., Zhang, B., ... & Heymach, J. V. (2024). Tumor-and circulating-free DNA methylation identifies clinically relevant small cell lung cancer subtypes. Cancer Cell, 42(2), 225-237. https://doi.org/10.1016/j.ccell.2024.01.001
+  
 # 20240403
 - Kountay Dwivedi, Ankit Rajpal, Sheetal Rajpal, Virendra Kumar, Manoj Agarwal, Naveen Kumar,Enlightening the path to NSCLC biomarkers: Utilizing the power of XAI-guided deep learning,Computer Methods and Programs in Biomedicine,Volume 243,2024,107864,ISSN 0169-2607,https://doi.org/10.1016/j.cmpb.2023.107864
 
