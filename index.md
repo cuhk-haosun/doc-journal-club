@@ -17,3 +17,6 @@
 
 - Frangieh, C. J., Melms, J. C., Thakore, P. I., Geiger-Schuller, K. R., Ho, P., Luoma, A. M., ... & Izar, B. (2021). Multimodal pooled Perturb-CITE-seq screens in patient models define mechanisms of cancer immune evasion. Nature genetics, 53(3), 332-341. https://doi.org/10.1038/s41588-021-00779-1
 
+#20240516
+
+Yu, S.C.Y., Choy, L.Y.L. & Lo, Y.M.D. ‘Longing’ for the Next Generation of Liquid Biopsy: The Diagnostic Potential of Long Cell-Free DNA in Oncology and Prenatal Testing. Mol Diagn Ther 27, 563–571 (2023). https://doi.org/10.1007/s40291-023-00661-2
