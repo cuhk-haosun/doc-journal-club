@@ -1,3 +1,7 @@
+# 20240530
+
+Joglekar, A., Hu, W., Zhang, B. _et al_. Single-cell long-read sequencing-based mapping reveals specialized splicing patterns in developing and adult mouse and human brain. _Nat Neurosci_ (2024). https://doi.org/10.1038/s41593-024-01616-4
+
 # 20240523
 
 Wang, Z., Cheng, L., Sun, Y., Wei, X., Cai, B., Liao, L., ... & Zhao, X. Z. (2020). Enhanced isolation of fetal nucleated red blood cells by enythrocyte-leukocyte hybrid membrane-coated magnetic nanoparticles for noninvasive pregnant diagnostics. Analytical Chemistry, 93(2), 1033-1042.
