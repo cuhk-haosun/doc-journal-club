@@ -1,3 +1,7 @@
+# 20240619
+Gaetan De Waele, Jim Clauwaert, Gerben Menschaert, Willem Waegeman, CpG Transformer for imputation of single-cell methylomes, Bioinformatics, Volume 38, Issue 3, February 2022, Pages 597–603, https://doi.org/10.1093/bioinformatics/btab746
+
+
 # 20240530
 
 Joglekar, A., Hu, W., Zhang, B. _et al_. Single-cell long-read sequencing-based mapping reveals specialized splicing patterns in developing and adult mouse and human brain. _Nat Neurosci_ (2024). https://doi.org/10.1038/s41593-024-01616-4
