@@ -1,3 +1,6 @@
+# 20240627
+Chen, L., Zhang, C., Xue, R., Liu, M., Bai, J., Bao, J., ... & Wang, H. (2024). Deep whole-genome analysis of 494 hepatocellular carcinomas. Nature, 1-8. https://doi.org/10.1038/s41586-024-07054-3
+
 # 20240619
 Gaetan De Waele, Jim Clauwaert, Gerben Menschaert, Willem Waegeman, CpG Transformer for imputation of single-cell methylomes, Bioinformatics, Volume 38, Issue 3, February 2022, Pages 597–603, https://doi.org/10.1093/bioinformatics/btab746
 
